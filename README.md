@@ -1,10 +1,10 @@
 # CS50's Introduction to Programming with Python
 
-> Aulas de Python de Harvard CS50
+> Classes for Python of CS50's Harvard
 
 ---
 
-## Etapas do Aprendizado
+## Learning Stages
 
 - **Functions and Variables**
 - **Conditionals**
