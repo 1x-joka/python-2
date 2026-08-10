@@ -1,4 +1,4 @@
-# ============== FUNÇÕES E VARIÁVEIS ==============
+# ============== FUNCTIONS AND VARIABLES ==============
 
 # Ask user for their name
 name = input("What's your name? ")

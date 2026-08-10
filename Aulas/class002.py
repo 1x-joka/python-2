@@ -1,3 +1,5 @@
+# ============== CONDITIONALS ==============
+
 x = int(input("What's x? "))
 y = int(input("What's y? "))
 
@@ -52,7 +54,7 @@ elif (name == 'Hermione'):
 elif (name == 'Ron'):
     print('Griffindor')
 
-# if (name == 'Harry') or (name == 'Hermione') or (name == 'Ron')
+# if (name == 'Harry' or name == 'Hermione' or name == 'Ron')
 
 elif (name == 'Draco'):
     print('Slytherin')
