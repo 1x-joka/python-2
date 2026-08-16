@@ -1,0 +1,1 @@
+# Este arquivo não precisa ter nada dentro dele, ele apenas indica ao Python que sim, essa pasta é um pacote contendo múltiplos módulos dentro
